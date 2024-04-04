@@ -1,7 +1,3 @@
-![alt text][logo]
-
-[logo]:https://crdroid.net/img/logo.png "crDroid Android"
-
 ## 1. Grabbing the source ##
 
 [Repo](http://source.android.com/source/developing.html) is a tool provided by Google that
