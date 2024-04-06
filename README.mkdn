@@ -41,7 +41,7 @@ and their change histories.
 
 ```bash
 # Let Repo take care of all the hard work
-repo sync -c --no-clone-bundle --optimized-fetch --prune --force-sync -j$(nproc --all)```
+repo sync -c --no-clone-bundle --optimized-fetch --prune --force-sync -j$(nproc --all)
 
 ```bash
 # Run to prepare our devices list
