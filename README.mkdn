@@ -13,14 +13,14 @@ sudo apt install bc bison build-essential ccache curl flex g++-multilib gcc-mult
 Install Repo tool
 ```bash
 # Make a directory where Repo will be stored and add it to the path
-$ mkdir ~/bin
-$ PATH=~/bin:$PATH
+mkdir ~/bin
+PATH=~/bin:$PATH
 
 # Download Repo itself
-$ curl https://storage.googleapis.com/git-repo-downloads/repo > ~/bin/repo
+curl https://storage.googleapis.com/git-repo-downloads/repo > ~/bin/repo
 
 # Make Repo executable
-$ chmod a+x ~/bin/repo
+chmod a+x ~/bin/repo
 ```
 
 ### 1.2 Initializing Repo ###
