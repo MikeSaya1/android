@@ -47,7 +47,7 @@ repo sync -c --no-clone-bundle --optimized-fetch --prune --force-sync -j$(nproc 
 # Run to prepare our devices list
 . build/envsetup.sh
 # ... now run
-brunch salami or brunch lemonadep or brunch lemonade
+brunch salami or brunch lemonadep or brunch lemonade or brunch kebab or brunch instantnoodlep or brunch instatnoodle
 ```
 
 ### 1.3 Automation ###
